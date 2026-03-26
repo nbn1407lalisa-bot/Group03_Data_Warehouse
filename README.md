@@ -1,4 +1,4 @@
-# Dự án: Group04_Data_Analysis_Project
+# Dự án: Group03_Data_Analysis_Project
 1. Giới thiệu dự án:
 1.1.Bối cảnh và đặt vấn đề:
    Đồng bằng sông Cửu Long (ĐBSCL) là "vựa lúa" lớn nhất Việt Nam, đóng góp hơn 50% sản lượng lúa gạo cả nước. Tuy nhiên, nông dân tại đây thường xuyên đối mặt với tình trạng "được mùa mất giá" và sự nhiễu loạn thông tin thị trường. Dữ liệu về giá lúa tươi (tại ruộng), giá gạo bán lẻ, chỉ số chi phí (phân bón) và biến động thời tiết hiện đang nằm rải rác ở nhiều nguồn khác nhau, gây khó khăn cho việc theo dõi và đưa ra quyết định bán hàng tối ưu.
