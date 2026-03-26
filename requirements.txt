@@ -1,0 +1,9 @@
+functions-framework==3.*
+google-cloud-bigquery
+google-cloud-storage
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+tqdm
