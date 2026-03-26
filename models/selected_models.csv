@@ -1,0 +1,4 @@
+horizon,best_regression_model,best_classification_model,regression_model_path,classification_model_path
+1,random_forest,logistic_regression,../models/rice_price_reg_h1.joblib,../models/rice_price_dir_h1.joblib
+2,random_forest,random_forest_cls,../models/rice_price_reg_h2.joblib,../models/rice_price_dir_h2.joblib
+3,gradient_boosting,catboost_cls,../models/rice_price_reg_h3.joblib,../models/rice_price_dir_h3.joblib

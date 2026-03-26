@@ -1,0 +1,26 @@
+{
+  "note": "Direct forecast 1-2-3 tháng từ monthly panel của fact_agriculture_final",
+  "selected_models": [
+    {
+      "horizon": 1,
+      "best_regression_model": "random_forest",
+      "best_classification_model": "logistic_regression",
+      "regression_model_path": "../models/rice_price_reg_h1.joblib",
+      "classification_model_path": "../models/rice_price_dir_h1.joblib"
+    },
+    {
+      "horizon": 2,
+      "best_regression_model": "random_forest",
+      "best_classification_model": "random_forest_cls",
+      "regression_model_path": "../models/rice_price_reg_h2.joblib",
+      "classification_model_path": "../models/rice_price_dir_h2.joblib"
+    },
+    {
+      "horizon": 3,
+      "best_regression_model": "gradient_boosting",
+      "best_classification_model": "catboost_cls",
+      "regression_model_path": "../models/rice_price_reg_h3.joblib",
+      "classification_model_path": "../models/rice_price_dir_h3.joblib"
+    }
+  ]
+}
